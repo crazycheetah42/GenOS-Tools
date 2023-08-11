@@ -19,3 +19,4 @@ sudo mv GenOS-Tools/adwaita-d.jpg /usr/share/backgrounds/
 gsettings set org.gnome.desktop.background picture-uri /usr/share/backgrounds/adwaita-d.jpg
 gsettings set org.gnome.desktop.interface gtk-theme Yaru-dark
 gsettings set org.gnome.desktop.wm.preferences theme Yaru-dark
+mv GenOS-tools ~/Desktop/
