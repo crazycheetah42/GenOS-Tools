@@ -25,7 +25,7 @@ class Ui_Dialog(object):
         self.label.setObjectName("label")
         self.horizontalLayout.addWidget(self.label)
         self.label_2 = QtWidgets.QLabel(Dialog)
-        self.label_2.setGeometry(QtCore.QRect(10, 90, 251, 21))
+        self.label_2.setGeometry(QtCore.QRect(10, 90, 251, 24))
         self.label_2.setObjectName("label_2")
         self.pushButton = QtWidgets.QPushButton(Dialog)
         self.pushButton.setGeometry(QtCore.QRect(70, 170, 150, 34))
